@@ -4,7 +4,7 @@ env = { NEBIUS_API_KEY = "${NEBIUS_API_KEY}" }
 
 [[participants]]
 agentbeats_id = "019bf778-b195-7752-a7f0-2c6a883c9945"
-name = "scp-007"
+name = "supply_chain_planning"
 env = { NEBIUS_API_KEY = "${NEBIUS_API_KEY}" } 
 
 [config]

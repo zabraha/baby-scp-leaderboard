@@ -9,7 +9,7 @@ environment = [
     "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}"
 ]
 
-# Optional: also create .env file in container
+# Optional: also create .env file in container more testing
 env_file = ".env"
 #env = {GEMINI_API_KEY = "${GEMINI_API_KEY}"} 
 

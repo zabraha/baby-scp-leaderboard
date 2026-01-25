@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/zabraha/baby-scp-green@sha256:bd6179aaa68afce4f195551a91ba2044f090fb28eb4281e8eaf09a094a9f8cfc",
+    "supply_chain_planning_agent": "ghcr.io/zabraha/baby-scp-purple@sha256:995f76581577c47c7e27809fd61a6ff91f2d54e2fd673ec4b61e1becb60d7abd",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-25T20:05:17Z",
+  "github_actions": {
+    "run_url": "https://github.com/zabraha/baby-scp-leaderboard/actions/runs/21338373241",
+    "run_logs_url": "https://api.github.com/repos/zabraha/baby-scp-leaderboard/actions/runs/21338373241/logs",
+    "ref": "refs/heads/test1",
+    "sha": "2b1dc6ab0c6ecd6f5e6778fa54bca08dd253ff1a",
+    "repository_url": "https://github.com/zabraha/baby-scp-leaderboard",
+    "workflow_ref": "zabraha/baby-scp-leaderboard/.github/workflows/run-scenario.yml@refs/heads/test1",
+    "workflow_sha": "2b1dc6ab0c6ecd6f5e6778fa54bca08dd253ff1a"
+  }
+}

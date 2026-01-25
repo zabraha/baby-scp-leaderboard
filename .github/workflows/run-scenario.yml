@@ -68,6 +68,9 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GHCR_TOKEN }}
 
+      - name: Debug .env
+        run: cat .env  # Shows: GEMINI_API_KEY=ghp_xxx
+
       - name: Run assessment
         run: docker compose up --timestamps --no-color --exit-code-from agentbeats-client --abort-on-container-exit
 

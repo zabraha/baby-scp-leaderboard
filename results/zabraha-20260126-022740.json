@@ -1,0 +1,38 @@
+{
+  "participants": {
+    "supply_chain_planning_agent": "019bf778-b195-7752-a7f0-2c6a883c9945"
+  },
+  "results": [
+    {
+      "pass_rate": 0.0,
+      "total_tasks": 5,
+      "results": [
+        {
+          "task_id": "p1",
+          "success": false,
+          "latency": 0.9446144104003906
+        },
+        {
+          "task_id": "p2",
+          "success": false,
+          "latency": 0.5504674911499023
+        },
+        {
+          "task_id": "p3",
+          "success": false,
+          "latency": 0.5116100311279297
+        },
+        {
+          "task_id": "p4",
+          "success": false,
+          "latency": 0.5211632251739502
+        },
+        {
+          "task_id": "p5",
+          "success": false,
+          "latency": 0.49101901054382324
+        }
+      ]
+    }
+  ]
+}
